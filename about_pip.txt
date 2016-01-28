@@ -1,0 +1,7 @@
+pip is a package management system used to manage and install software packages written in Python language.
+
+On Ubuntu, pip can be installed using the command: sudo apt-get install python-pip
+
+A Python software package can then be installed using the command: pip install some-package-name
+
+To uninstall, use the comand: pip uninstall some-package-name

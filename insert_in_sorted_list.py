@@ -22,4 +22,5 @@ def insert_in_sorted_list():
 
 
 # testing command
-print "Your new list is:", insert_in_sorted_list()
+new_list = insert_in_sorted_list()
+print "Your new list is:", new_list

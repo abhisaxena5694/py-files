@@ -9,8 +9,8 @@ def insert_in_sorted_list():
     for index in range(list_length):
         if element > DATA_LIST[index]:
             position = index + 1
-        else: 
-            continue
+        #else: 
+        #    continue
     count = list_length
     DATA_LIST.append(None)
     while count >= position:

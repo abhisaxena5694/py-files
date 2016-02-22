@@ -11,5 +11,4 @@ def linear_search():
     if flag == 0:
         print "Element not found."
         
-l_search = linear_search()
-print l_search
+linear_search()
